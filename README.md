@@ -3,6 +3,8 @@
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Boualem the Djebsoft
+<!-- TO DO: add more details about me later -->
+
 <!--
 **djebsoft/Djebsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

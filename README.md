@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Boualem. I'm currently trainee at CYF.
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
